@@ -38,3 +38,4 @@ def getUserRankInLast(_uid,_last):
             return userIndex
         else:
             userIndex+=1
+    return -1
